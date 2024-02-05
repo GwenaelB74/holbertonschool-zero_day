@@ -1,6 +1,8 @@
 # README.md
 
 README for Task 1 of project 4.
+Learn to create branches and change branches
+
 ## Authors
 
 - [@GwenaelB74](https://www.github.com/GwenaelB74) (Gwenael)
