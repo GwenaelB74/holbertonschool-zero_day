@@ -1,6 +1,7 @@
-# README.md
+# README.mdÂ
 
-README for Task 1 of project 4.
+It's my first README.
+
 ## Authors
 
 - [@GwenaelB74](https://www.github.com/GwenaelB74) (Gwenael)
