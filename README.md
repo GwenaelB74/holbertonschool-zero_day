@@ -8,5 +8,3 @@ It's my first README.
 ## About us
 
 I'm an apprentice developer at the Holberton School, Thonon-les-Bains. I'm discovering the C language.
-
-
