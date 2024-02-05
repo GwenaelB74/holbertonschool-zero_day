@@ -1,11 +1,11 @@
 # README.md
 
-<<<<<<< HEAD
+HEAD
 README for Task 1 of project 4.
 Learn to create branches and change branches
-=======
+
 README for Task 1 of project 4. Learn to create branches and change branches
->>>>>>> main
+main
 
 ## Authors
 
