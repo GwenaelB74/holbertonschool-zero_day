@@ -1,7 +1,11 @@
 # README.md
 
+<<<<<<< HEAD
 README for Task 1 of project 4.
 Learn to create branches and change branches
+=======
+README for Task 1 of project 4. Learn to create branches and change branches
+>>>>>>> main
 
 ## Authors
 
@@ -9,5 +13,3 @@ Learn to create branches and change branches
 ## About us
 
 I'm an apprentice developer at the Holberton School, Thonon-les-Bains. I'm discovering the C language.
-
-
